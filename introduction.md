@@ -1,4 +1,4 @@
-This is seshu
-GIT
-JavaScript
-Ruby
+* This is seshu
+*GIT
+*JavaScript
+*Ruby
